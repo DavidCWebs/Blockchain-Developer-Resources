@@ -1,6 +1,6 @@
 # Blockchain-Developer-Resources
 
-A list of opininated links to resources useful to blockchain and bitcoin developers.
+Useful resources for blockchain and bitcoin developers.
 
 ---
 
@@ -11,11 +11,11 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 #### Non-Technical Videos (Very Intro)
   * [Bitcoin explained and made simple](https://www.youtube.com/watch?v=s4g1XFU8Gto) (3m:24s) by [The Guardian](http://www.theguardian.com/)
   * [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c) (5m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
-  
+
 #### Non-Technical Videos (More Detail)
-  * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) (26m:16s) by [@ChristopherA](https://twitter.com/ChristopherA) 
+  * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) (26m:16s) by [@ChristopherA](https://twitter.com/ChristopherA)
   * [Bitcoin 101 - What is Bitcoin?](https://www.youtube.com/watch?v=Bhe61JaNFLU) (22m:32s) by [James D'Angelo WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
- 
+
 #### Non-Technical Videos (Intermediate & Related Topics)
   * [Blockchain University — Bitcoin Keys Addresses and Wallets](https://www.youtube.com/watch?v=Ic76iSnCb_0) (1h:06m:43s) by [@ChristopherA](https://twitter.com/ChristopherA)
   * [Bitcoin Sidechains](https://www.youtube.com/watch?v=6sXNVIaNL2Y) (5m:54s) by [Diginomics](https://diginomics.com/)
@@ -30,7 +30,7 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 #### Technical Videos
   * [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) (5m:25s)  by [Curious Inventor](http://Patreon.com/CuriousInventor)
   * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (22m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
-  * [Mechanics of Bitcoin](https://www.youtube.com/watch?v=t3hJsFpPmXs) (1h:19m:49s) by [Princeton 
+  * [Mechanics of Bitcoin](https://www.youtube.com/watch?v=t3hJsFpPmXs) (1h:19m:49s) by [Princeton
 Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/course/bitcointech)
   * [Programming Bitcoin Youtube Channel](https://www.youtube.com/programmingbitcoin) by Murray
   * [Coding Multi-Signature Addresses](https://www.youtube.com/watch?v=zIbUSaZBJgU) by D'Angelo
@@ -39,7 +39,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
 
 #### Technical Articles
-* [Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin (http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
+* [Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin](http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) by Kofler
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) by Buterin
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) by Driscoll
@@ -66,7 +66,7 @@ Sidechains are new blockchains, but are backed by Bitcoin rather than being an a
   * [Sidechains, Treechains, the TL;DR](http://blog.greenaddress.it/2014/06/13/sidechains-treechains-the-tldr/) by Sanders
   * [Side Chains: The How, The Challenges and the Potential](http://bitcoinmagazine.com/12349/side-chains-challenges-potential/) by Buterin
   * [Sidechain Technical Feasibility Discussion](https://bitcointalk.org/index.php?topic=566704.0;all) (discussion)
-  * [Alternative Chains / merged mining](https://en.bitcoin.it/wiki/Alternative_Chains) 
+  * [Alternative Chains / merged mining](https://en.bitcoin.it/wiki/Alternative_Chains)
 
 ### Concepts
   * The Initial Two-Way Pegging [proposal](http://sourceforge.net/p/bitcoin/mailman/message/32108143/) by Adam Back
@@ -82,59 +82,13 @@ Sidechains are new blockchains, but are backed by Bitcoin rather than being an a
 ## Altcoins
 
 ### Introduction
-  * [A Treatise on Altcoins](https://download.wpsoftware.net/bitcoin/alts.pdf) 
-  
+  * [A Treatise on Altcoins](https://download.wpsoftware.net/bitcoin/alts.pdf)
+
 ### Tutorials
-* [How To Clone Scrypt Based Altcoins for Fun and Profit](http://devtome.com/doku.php?id=scrypt_altcoin_cloning_guide&rev=1391981820) by shakezula 
+* [How To Clone Scrypt Based Altcoins for Fun and Profit](http://devtome.com/doku.php?id=scrypt_altcoin_cloning_guide&rev=1391981820) by shakezula
 
 ### Projects
 * [CoinGecko](https://www.coingecko.com/en) has charts for a number of altcoins, but more importantly, attempts to measure developer and user community activity.
-
-## Javascript & Bitcoin
-
-At Blockchain University we use a number of Javascript based examples to teach the more technical details of Bitcoin. You are not required to have an in-depth knowledge of Javascript, but learning some basics is very useful.
-
-### Setting Up on Mac
-
-If using a Mac, you'll need some basic knowledge how to use the Terminal and the Mac's command line interface, and you'll need to install brew, node and git. A basic tutorial on how to do this is at https://github.com/ChristopherA/intro-mac-command-line
-
-You can also use this script which sets up your Mac automatically, but the above teaches you how do to do it manually https://github.com/blockchainu/prepare-osx-for-blockchain-webdev
-
-### Introduction to Javascript
-
-Javascript is in both server (node) and client (browser) development. Some basics of Javascript are common to both. Here are some resources for learning about Javascript that are generally applicable to both platform.
-
-  * [Learn Javascript](https://www.gitbook.com/book/gitbookio/javascript/details) - a free online book with interactive exercises.
-
-### Introduction to Node & Javascript
-
-Server-based Javascript typically uses Node. These Javascript learning resources are node specific:
-
-  * I like the command-line based [nodeschool.io](http://nodeschool.io) tutorials, as they require you to both use the command line and to create real working code. These are the basic interactive tutorials, but there are many more available.
-   * Learn javascripting basics `npm install -g javascripting`
-   * Learn Node basics: `npm install -g learnyounode`
-   * Learn git: `npm install -g git-it`
-
-### Online courses on Javascript
-
-Most of these courses teach general Javascript, but tend to be more client-side Javascript oriented.
-
-Free online courses:
-  * [Code Academy: Javascript](http://www.codecademy.com/tracks/javascript) is an online interactive course that comes highly recommend. The course says 10 hours, but one of our students reported that it took him about 17 hours over 5 days, and found Q&A forum and glossary both helpful.
-  * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-  * [Introduction to Computing Principles](http://web.stanford.edu/class/cs101/)
-  * [Introduction to JavaScript Development](https://www.udemy.com/refactoru-intro-js/?dtcode=DvGKZ5c30m1I)
-
-Some non-free online courses:
-  * [Node.js Essential Training](http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html)
-
-### General Javascript Books and eBooks
-
-Some general Javascript online books in eBook (in rough order of preference)
-
-  * [Eloquent Javascript](http://eloquentjavascript.net)
-  * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Local-client Javascript Tools & Playgrounds
 
@@ -167,3 +121,11 @@ You'll need bitcoin testnet coins while developing apps with bitcoin. List in ro
 ### Blockchain Explorers
   * [Blockr.io](http://btc.blockr.io)
   * [Blockchain.info](https://blockchain.info/)
+
+## Ethereum
+
+### Disk IO as a Bottlneck? SSD is Required
+Geth currently requires a SSD to sync the Ethereum blockchain.
+* [GitHUb issue with execllent description of the issue](https://github.com/ethereum/go-ethereum/issues/16218)
+* [How sync progresses](https://github.com/ethereum/go-ethereum/issues/16218#issuecomment-371454280) (from above)
+* [This is a NoSQL issue, NOT disk IO](https://github.com/ethereum/go-ethereum/issues/16218#issuecomment-377727590)
