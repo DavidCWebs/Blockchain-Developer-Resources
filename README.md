@@ -126,6 +126,6 @@ You'll need bitcoin testnet coins while developing apps with bitcoin. List in ro
 
 ### Disk IO as a Bottlneck? SSD is Required
 Geth currently requires a SSD to sync the Ethereum blockchain.
-* [GitHUb issue with execllent description of the issue](https://github.com/ethereum/go-ethereum/issues/16218)
-* [How sync progresses](https://github.com/ethereum/go-ethereum/issues/16218#issuecomment-371454280) (from above)
+* [GitHub issue with excellent description of the issue](https://github.com/ethereum/go-ethereum/issues/16218)
+* [Description of sync process](https://github.com/ethereum/go-ethereum/issues/16218#issuecomment-371454280) (from above)
 * [This is a NoSQL issue, NOT disk IO](https://github.com/ethereum/go-ethereum/issues/16218#issuecomment-377727590)
